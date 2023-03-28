@@ -1,0 +1,194 @@
+{
+  "tank_capacity" : {
+    "-MCHkiV0RPb1-sQRHDaj" : {
+      "date" : "11/07/2020",
+      "value" : 0.798151865103993
+    },
+    "-MCV24csS5BrMystLPWR" : {
+      "date" : "12/07/2020",
+      "value" : 0.80798151865104
+    },
+    "-MCbBDig9rBiLvUo7PD8" : {
+      "date" : "13/07/2020",
+      "value" : 0.8505918031177194
+    },
+    "-MCbGpNMtDpq2cdlSnIs" : {
+      "date" : "14/07/2020",
+      "value" : 0.8705918031177194
+    },
+    "-MCbGubrmi4mS82ihZOD" : {
+      "date" : "15/07/2020",
+      "value" : 0.805918031177194
+    },
+    "-MCq_2BVzBHmlVNWiEXD" : {
+      "date" : "16/07/2020",
+      "value" : 0.7605918031177193
+    },
+    "-MCq_FElg8gyt49uO0zx" : {
+      "date" : "17/07/2020",
+      "value" : 0.6905918031177194
+    },
+    "-MCq_b1-hpBf1dwX5ElX" : {
+      "date" : "18/07/2020",
+      "value" : 0.5805918031177194
+    },
+    "-MCqbM8OOtHHxMN8Ge4m" : {
+      "date" : "19/07/2020",
+      "value" : 0.5305918031177194
+    },
+    "-MCqbUU7KO_NoL5TSpql" : {
+      "date" : "20/07/2020",
+      "value" : 0.5005918031177194
+    },
+    "-MCqcO50CK_UdlUo7rsp" : {
+      "date" : "21/07/2020",
+      "value" : 0.5605918031177194
+    },
+    "-MCqcghO8GCG7vaZ44pj" : {
+      "date" : "22/07/2020",
+      "value" : 0.5905918031177194
+    },
+    "-MCqckPWVODjEiCdxGna" : {
+      "date" : "23/07/2020",
+      "value" : 0.4705918031177194
+    },
+    "-MCqdS4TzdCAfIe3WJHh" : {
+      "date" : "24/07/2020",
+      "value" : 0.3505918031177194
+    },
+    "-MCqdVlx5CYLiqul3a1B" : {
+      "date" : "25/07/2020",
+      "value" : 0.3705918031177194
+    },
+    "-MCqdYpoKDXDgp2u0h1k" : {
+      "date" : "26/07/2020",
+      "value" : 0.4505918031177194
+    },
+    "-MCvHMChHfeXXzpuPwYU" : {
+      "date" : "23/07/2020",
+      "value" : 0.5505918031177194
+    },
+    "-MCvHbWeUP5p6ULti9Qf" : {
+      "date" : "23/07/2020",
+      "value" : 0.6005918031177194
+    },
+    "-MCvI-hKKY7WxLurgtdf" : {
+      "date" : "23/07/2020",
+      "value" : 0.6570591803117719
+    },
+    "-MCvIFNk_jF4NcQ_c2xR" : {
+      "date" : "23/07/2020",
+      "value" : 0.6605918031177193
+    },
+    "-MCvIKkjgPCBQdTs1xfN" : {
+      "date" : "23/07/2020",
+      "value" : 0.6505918031177194
+    },
+    "-MCvKO8b4g3wSS6ftmzc" : {
+      "date" : "23/07/2020",
+      "value" : 0.6405918031177193
+    }
+  },
+  "tank_capacity_china" : {
+    "-MCvR3t3bQkB5pQ-4Rzd" : {
+      "date" : "23/07/2020",
+      "value" : 0.4505918031177194
+    },
+    "-MD4I0_M3UWpLijwdvMY" : {
+      "date" : "25/07/2020",
+      "value" : 0.5505918031177194
+    },
+    "-MD4I41cXCW8AU-JddYa" : {
+      "date" : "25/07/2020",
+      "value" : 0.6505918031177194
+    },
+    "-MD4I5a1lnuPtYRmmw9J" : {
+      "date" : "25/07/2020",
+      "value" : "0.68905918031177194"
+    },
+    "-MD4I76NxZdtNk5buAMY" : {
+      "date" : "25/07/2020",
+      "value" : 0.7005918031177194
+    },
+    "-MD4I8jxIolCRQq9bQNo" : {
+      "date" : "25/07/2020",
+      "value" : 0.7505918031177194
+    },
+    "-MD4IAF0LY5b_4VLkL2h" : {
+      "date" : "25/07/2020",
+      "value" : 0.8005918031177194
+    },
+    "-MD4IC0xpSn-hkzN9B3x" : {
+      "date" : "25/07/2020",
+      "value" : 0.8505918031177194
+    },
+    "-MD4IDjtw-qcFeXR8qrX" : {
+      "date" : "25/07/2020",
+      "value" : 0.9005918031177194
+    },
+    "-MD4IFNJF-mrxMp1UDHw" : {
+      "date" : "25/07/2020",
+      "value" : 0.7505918031177194
+    },
+    "-MD4IGqVf9WQOIAhDfh9" : {
+      "date" : "25/07/2020",
+      "value" : 0.7005918031177194
+    },
+    "-MD4IIOMHnYkzvB0WaYm" : {
+      "date" : "25/07/2020",
+      "value" : 0.6505918031177194
+    },
+    "-MD4IK0cC-slFarYCm-H" : {
+      "date" : "25/07/2020",
+      "value" : 0.5505918031177194
+    },
+    "-MD4ILRuBTLv8SBUtI54" : {
+      "date" : "25/07/2020",
+      "value" : 0.4005918031177194
+    },
+    "-MD4IUdXegnIQb_El3jw" : {
+      "date" : "25/07/2020",
+      "value" : 0.4305918031177194
+    },
+    "-MD4IX9FaTWyOXvGmP6d" : {
+      "date" : "25/07/2020",
+      "value" : 0.5505918031177194
+    },
+    "-MD4IcQFnYfmzk8L0TOK" : {
+      "date" : "25/07/2020",
+      "value" : 0.6005918031177194
+    },
+    "-MD4IduECk2IWum6thGy" : {
+      "date" : "25/07/2020",
+      "value" : 0.6505918031177194
+    },
+    "-MD4IfN3TwpgJnom50kd" : {
+      "date" : "25/07/2020",
+      "value" : 0.7005918031177194
+    },
+    "-MD4Ign5UkPj6-ogAVqV" : {
+      "date" : "25/07/2020",
+      "value" : 0.7205918031177194
+    },
+    "-MD4IiJlH6rxtxI1pgIm" : {
+      "date" : "25/07/2020",
+      "value" : 0.7305918031177194
+    },
+    "-MD4IjkiDN18YcLlymiy" : {
+      "date" : "25/07/2020",
+      "value" : 0.6505918031177194
+    },
+    "-MD4IlKNKaBgm7IoF-mz" : {
+      "date" : "25/07/2020",
+      "value" : 0.6205918031177194
+    },
+    "-MD4In5jaVbFW4COiWiQ" : {
+      "date" : "25/07/2020",
+      "value" : 0.6005918031177194
+    },
+    "-MD4IohN46rh1i62Mnxd" : {
+      "date" : "25/07/2020",
+      "value" : 0.5905918031177194
+    }
+  }
+}
